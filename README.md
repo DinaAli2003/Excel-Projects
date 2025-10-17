@@ -1,3 +1,4 @@
+# Excel Projects
 ## Excel Data Analysis Projects Repository 📊
 
 This repository showcases a collection of **data analysis projects** completed using **Microsoft Excel**. These projects demonstrate a comprehensive workflow, covering the entire data lifecycle from raw data to actionable insights and interactive dashboards.
