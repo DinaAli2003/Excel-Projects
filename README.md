@@ -41,7 +41,7 @@ Each project within this repository follows a structured approach to data analys
 
 Each project is contained within its own dedicated folder. To explore a project:
 
-1.  **Browse the folders:** Each folder name will indicate the project's focus (e.g., *Store_Analysis_Dashboard*, *Sustainability_Dashboard*).
+1.  **Browse the folders:** Each folder name will indicate the project's focus .
 2.  **Download the Excel file:** The primary project file will be an `.xlsx` .
 3.  **Review the files:** Examine the worksheet to follow the data journey:
     * **Raw Data**  worksheet for the initial dataset.
