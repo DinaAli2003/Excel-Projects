@@ -66,7 +66,7 @@ The power of this solution lies in its interactivity, driven by **Excel Slicers*
 * **Drill-Down Capability:** 🔍 Combine multiple filters for granular, real-time analysis.
 
 **How to Use:**
-1.  Open the "Sales & Market Dynamics Analyzer" Excel file.
+1.  Open the "Store Project.xlsx " Excel file.
 2.  Navigate between the **'Dashboard 01'** and **'Dashboard 02'** tabs.
 3.  Select your desired **Month(s)** and **Category(s)** from the Slicers.
 4.  Interpret the updated charts and KPIs to derive strategic and operational insights.
