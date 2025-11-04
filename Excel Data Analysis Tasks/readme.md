@@ -37,5 +37,4 @@ This hands-on experience significantly strengthened my capability to:
 2.  **Build clear, visual, and high-impact reports** that effectively support executive-level decision-making.
 3.  **Apply Excel** as a robust and practical tool for **data-driven storytelling** and problem-solving.
 
-***
-from the project?
+
