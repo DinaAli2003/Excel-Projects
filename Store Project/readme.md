@@ -5,7 +5,7 @@ The goal of the project was to build interactive dashboards that provide valuabl
 performance across different dimensions
 
 
-# 🚀 Project README: Interactive Sales & Market Performance Dashboard
+# 🚀  Interactive Sales & Market Performance Dashboard
 
 ---
 
