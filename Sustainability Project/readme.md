@@ -1,13 +1,10 @@
+# 🌳 Sustainability Project (Excel)
 
-# SustainabilityProject (Excel)
-This project was developed as part of the DEPI Internship organized by the Ministry of Communication and Information Technology.
-
-# 🌳 Project README: Sustainability Dashboard Analysis
-
+##  Project Title:  Sustainability Dashboard Analysis  🌍
 ---
 
 ### 1. Overview 🌐
-
+This project was developed as part of the DEPI Internship organized by the Ministry of Communications and Information Technology.
 This document serves as the **README** for the **Sustainability Project**, an analytical tool developed in Microsoft Excel. The project is designed to provide comprehensive insights into various aspects of **product sustainability, environmental impact, and market trends**. The core of the project is a set of interactive dashboards that visualize key performance indicators (KPIs) to aid in data-driven decision-making regarding sustainability initiatives.
 
 ### 2. Objectives ✨
@@ -49,7 +46,7 @@ The project features two main analytical dashboards:
 | **Company Type Sustainability** | Comparing the sustainability of Local, Multinational, and Startup companies. |
 | **KPIs** | Displays key aggregate metrics: Price, Carbon, Water, Waste, Rating. |
 
-### 4. Usage and Maintenance ⚙️
+### 4. Usage  ⚙️
 
 #### How to Use:
 
@@ -57,14 +54,8 @@ The project features two main analytical dashboards:
 2.  ➡️ Navigate between **'Dashboard 1'** and **'Dashboard 2'** tabs.
 3.  🖱️ Use the **Slicers** (left panel) to dynamically filter all visualizations based on **Region, Country, Year,** etc.
 4.  🧠 Interpret the updated charts and KPIs to derive insights.
-
-#### Maintenance:
-
-* **Data Refresh:** 🔄 Use **'Data Streamer'** or **'Power Pivot'** to refresh the data connection if the source is external.
-* **Update:** ➕ Integrate new data entries into the source tables and ensure PivotTable ranges are updated.
-* **Formulas:** ✔️ Review formulas and data connections periodically for data integrity.
-
+ 
 ---
-*Created by: [Dina Ali]*
-*Date: October 2025*
+ Created by: Dina Ali , October 2025
 ---
+
