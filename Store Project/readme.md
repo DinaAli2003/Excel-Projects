@@ -72,8 +72,6 @@ The power of this solution lies in its interactivity, driven by **Excel Slicers*
 4.  Interpret the updated charts and KPIs to derive strategic and operational insights.
 
 ---
-*Developed by: Dina Ali*
-*Technology: Microsoft Excel (Advanced Dashboards)*
-*Date: October 2025*
+*Developed by: Dina Ali* - *Technology: Microsoft Excel (Advanced Dashboards)* - *Date: October 2025*
 
 
